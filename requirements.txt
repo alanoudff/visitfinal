@@ -1,4 +1,8 @@
 streamlit
+pandas
+scikit-learn
+numpy
+altair==4.0
 absl-py==2.1.0
 altair==4.0.0
 anaconda-navigator==2.1.1
