@@ -5,8 +5,8 @@ numpy
 altair==4.0
 absl-py==2.1.0
 altair==4.0.0
-anaconda-navigator==2.1.1
-anaconda-navigator==2.1.1
+
+anaconda-navigator==3.9.7
 appdirs==1.4.4
 argh==0.26.2
 astor==0.8.1
